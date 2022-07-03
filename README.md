@@ -12,8 +12,8 @@
 * To create an optimum data visualization of most viewed videos, most liked videos and most disliked videos
 * To find out what are some of the trending category on YouTube in the year 2017-2018
 
-![Tableau Dashboard](https://github.com/AntiNova928/AntiNova_Portfolio/blob/main/images/Dashboard%201%20-%201.PNG)
-![Tableau Dashboard](https://github.com/AntiNova928/AntiNova_Portfolio/blob/main/images/Dashboard%201%20-%202.PNG)
+![](https://github.com/AntiNova928/AntiNova_Portfolio/blob/main/images/dashboard_1.PNG)
+![](https://github.com/AntiNova928/AntiNova_Portfolio/blob/main/images/dashboard_2.PNG)
 
 
 ## [Project 3 - Simple SQL Data Cleaning Project Overview:](https://github.com/AntiNova928/PortfolioProjects)
