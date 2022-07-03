@@ -14,3 +14,9 @@
 
 ![](/images/Dashboard%201%20-%201.PNG)
 ![](/images/Dashboard%201%20-%202.PNG)
+
+## [Project 3 - Simple SQL Data Cleaning Project Overview:](https://github.com/AntiNova928/PortfolioProjects)
+### Created a simple SQL data cleaning project on housing in Nashville
+* Trying out different SQL queries to clean the existing dataset
+* Some queries include helping to standardize the date format, removing duplicates and even updating new columns 
+* To optimize and make the dataset more user-friendly for other data analyst to analyze the data 
